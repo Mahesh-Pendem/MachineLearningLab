@@ -40,10 +40,12 @@ Each lab explores key concepts in Machine Learning using **Python** and essentia
    jupyter notebook
 3. Open the .ipynb file of any week and run the cells step-by-step.
 ## 📌 Features
-   - Hands-on practicals for every ML concept
-   - Step-by-step Jupyter notebooks
-   - Visualizations for better understanding
-   - Clean code with comments and explanations
+
+- 📘 **Well-structured lab notebooks** with clear explanations of each step  
+- 📈 **Graphs and visualizations** to aid intuitive understanding of concepts  
+- 🔁 **End-to-end implementation** of machine learning models from data preprocessing to evaluation  
+- 💬 **Inline comments** for learning support and code clarity
+
 ## ⭐ Acknowledgements
 
 Special thanks to **Sujoy Sarkar Sir** and **Laxmi Narayana Sir** for their invaluable guidance and support throughout the course.  
