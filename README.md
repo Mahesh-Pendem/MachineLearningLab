@@ -3,8 +3,15 @@
 ## **Class:** CSE-C3
 # 📊 Machine Learning Lab
 
-Welcome to the Machine Learning Lab repository! This repo contains all practical implementations and exercises done as part of our Machine Learning lab coursework. Each lab demonstrates key concepts in ML using Python and essential libraries like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and more.
+Welcome to the **Machine Learning Lab** repository!  
+This repo contains all practical implementations and exercises done as part of our Machine Learning lab coursework.  
+Each lab demonstrates key concepts in ML using **Python** and essential libraries like:
 
+- `pandas` for data manipulation  
+- `numpy` for numerical operations  
+- `matplotlib` and `seaborn` for data visualization  
+- `scikit-learn` for machine learning algorithms
+- 
 ## ✅ Lab Index
 
 | Week | Lab Topic                      | Description |
