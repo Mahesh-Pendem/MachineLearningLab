@@ -13,7 +13,6 @@ Each lab explores key concepts in Machine Learning using **Python** and essentia
 - `numpy` — for numerical computing
 - `matplotlib` & `seaborn` — for data visualization
 - `scikit-learn` — for building machine learning models
-- 
 ## ✅ Lab Index
 
 | Week | Lab Topic                      | Description |
