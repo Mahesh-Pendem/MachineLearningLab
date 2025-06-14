@@ -39,37 +39,7 @@ Each lab explores key concepts in Machine Learning using **Python** and essentia
    ```bash
    jupyter notebook
 3. Open the .ipynb file of any week and run the cells step-by-step.
-4. ## 📁 Repository Structure
-MachineLearningLab/
-│
-├── Week1_DataWrangling/
-│ └── lab1_pandas_operations.ipynb
-│
-├── Week2_DataCleaning_Visualization/
-│ └── lab2_cleaning_visuals.ipynb
-│
-├── Week3_Regression/
-│ └── lab3_regression.ipynb
-│
-├── Week4_LogisticRegression/
-│ └── lab4_logistic_regression.ipynb
-│
-├── Week5_DecisionTrees/
-│ └── lab5_decision_tree_random_forest.ipynb
-│
-├── Week6_NaiveBayes/
-│ └── lab6_naive_bayes.ipynb
-│
-├── Week7_KNN/
-│ └── lab7_knn.ipynb
-│
-├── Week8_SVM/
-│ └── lab8_svm.ipynb
-│
-├── Week9_KMeansClustering/
-│ └── lab9_kmeans_clustering.ipynb
-│
-└── README.md
+
 ## 📌 Features
 
 - 📘 **Well-structured lab notebooks** with clear explanations of each step  
