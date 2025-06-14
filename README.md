@@ -1,3 +1,6 @@
+> **Name:** Mahesh Pendem  
+> **ID:** B200737  
+> **Class:** CSE-C3
 # 📊 Machine Learning Lab
 
 Welcome to the Machine Learning Lab repository! This repo contains all practical implementations and exercises done as part of our Machine Learning lab coursework. Each lab demonstrates key concepts in ML using Python and essential libraries like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and more.
