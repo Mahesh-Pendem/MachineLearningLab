@@ -1,6 +1,7 @@
 ## **Name:** Mahesh Pendem  
 ## **ID:** B200737  
 ## **Class:** CSE-C3
+
 # 📊 Machine Learning Lab
 
 Welcome to the **Machine Learning Lab** repository!  
@@ -10,8 +11,10 @@ Each lab demonstrates key concepts in ML using **Python** and essential librarie
 - `pandas` for data manipulation  
 - `numpy` for numerical operations  
 - `matplotlib` and `seaborn` for data visualization  
-- `scikit-learn` for machine learning algorithms
-- 
+- `scikit-learn` for machine learning algorithms  
+
+---
+
 ## ✅ Lab Index
 
 | Week | Lab Topic                      | Description |
@@ -27,17 +30,15 @@ Each lab demonstrates key concepts in ML using **Python** and essential librarie
 | 9    | K-Means Clustering             | Cluster analysis and elbow method |
 
 ---
-
-### 🔧 Requirements
+## 🔧 Requirements
 
 Install the required libraries using pip:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 ---
-## 🧪 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/MachineLearningLab.git
-   cd MachineLearningLab
+## ✅ Recommended: Use a virtual environment
+python -m venv venv
+source venv/bin/activate       # On Windows: venv\Scripts\activate
+pip install -r requirements.txt  # Optional if using a requirements file
+---
