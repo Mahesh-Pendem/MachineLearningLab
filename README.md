@@ -32,15 +32,12 @@ Each lab demonstrates key concepts in ML using **Python** and essential librarie
 ---
 ## 🔧 Requirements
 
-Install the required libraries using pip:
+### Install the required libraries using pip:
 
-bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+
 ---
-## ✅ Recommended: Use a virtual environment
-python -m venv venv
-source venv/bin/activate       # On Windows: venv\Scripts\activate
-pip install -r requirements.txt  # Optional if using a requirements file
+
 ---
 ## 🧪 How to Run
 ### 1.Clone the repo:
@@ -51,40 +48,9 @@ cd MachineLearningLab
 ### 2.Launch Jupyter Notebook:
 
 ## jupyter notebook
+
 ### 3.Open the folder for the desired week, select the .ipynb file, and run the code cells in order.
 ---
-### 📁 Repository Structure
-
-MachineLearningLab/
-│
-├── Week1_DataWrangling/
-│   └── lab1_pandas_operations.ipynb
-│
-├── Week2_DataCleaning_Visualization/
-│   └── lab2_cleaning_visuals.ipynb
-│
-├── Week3_Regression/
-│   └── lab3_regression.ipynb
-│
-├── Week4_LogisticRegression/
-│   └── lab4_logistic_regression.ipynb
-│
-├── Week5_DecisionTrees/
-│   └── lab5_decision_tree_random_forest.ipynb
-│
-├── Week6_NaiveBayes/
-│   └── lab6_naive_bayes.ipynb
-│
-├── Week7_KNN/
-│   └── lab7_knn.ipynb
-│
-├── Week8_SVM/
-│   └── lab8_svm.ipynb
-│
-├── Week9_KMeansClustering/
-│   └── lab9_kmeans_clustering.ipynb
-│
-└── README.md
 
 ## 📌 Features
 📘 Well-structured lab notebooks with explanations
