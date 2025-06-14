@@ -40,6 +40,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 ---
 ## 🧪 How to Run
+```bash
  1.Clone the repo:
 git clone https://github.com/yourusername/MachineLearningLab.git
 cd MachineLearningLab
