@@ -28,6 +28,13 @@ Each lab demonstrates key concepts in ML using **Python** and essential librarie
 
 ---
 
+### 🔧 Requirements
+
+Install the required libraries using pip:
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+
 ## 🧪 How to Run
 
 1. Clone the repo:
