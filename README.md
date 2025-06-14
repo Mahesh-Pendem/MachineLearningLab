@@ -44,3 +44,7 @@ Each lab explores key concepts in Machine Learning using **Python** and essentia
    - Step-by-step Jupyter notebooks
    - Visualizations for better understanding
    - Clean code with comments and explanations
+## ⭐ Acknowledgements
+
+Special thanks to **Sujoy Sarkar Sir** and **Laxmi Narayana Sir** for their invaluable guidance and support throughout the course.  
+Also, heartfelt thanks to the open-source community for providing the amazing libraries and resources that made this learning journey possible.
