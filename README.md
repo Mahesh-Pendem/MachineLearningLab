@@ -35,3 +35,7 @@ Each lab explores key concepts in Machine Learning using **Python** and essentia
    ```bash
    git clone https://github.com/yourusername/MachineLearningLab.git
    cd MachineLearningLab 
+2. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+
