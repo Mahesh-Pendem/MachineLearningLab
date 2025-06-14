@@ -27,4 +27,4 @@ Welcome to the Machine Learning Lab repository! This repo contains all practical
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/MachineLearningLab.git
-   cd MachineLearningLab expand some information and give as readme.md code
+   cd MachineLearningLab 
