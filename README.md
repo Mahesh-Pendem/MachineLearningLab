@@ -38,4 +38,9 @@ Each lab explores key concepts in Machine Learning using **Python** and essentia
 2. Launch Jupyter Notebook:
    ```bash
    jupyter notebook
-
+3. Open the .ipynb file of any week and run the cells step-by-step.
+## 📌 Features
+   - Hands-on practicals for every ML concept
+   - Step-by-step Jupyter notebooks
+   - Visualizations for better understanding
+   - Clean code with comments and explanations
