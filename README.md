@@ -4,8 +4,16 @@
 
 # 📊 Machine Learning Lab
 
-Welcome to the Machine Learning Lab repository! This repo contains all practical implementations and exercises done as part of our Machine Learning lab coursework. Each lab demonstrates key concepts in ML using Python and essential libraries like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and more.
+Welcome to the **Machine Learning Lab** repository!  
+This repository contains all practical implementations, experiments, and exercises done as part of our Machine Learning lab coursework.
 
+Each lab explores key concepts in Machine Learning using **Python** and essential libraries like:
+
+- `pandas` — for data manipulation
+- `numpy` — for numerical computing
+- `matplotlib` & `seaborn` — for data visualization
+- `scikit-learn` — for building machine learning models
+- 
 ## ✅ Lab Index
 
 | Week | Lab Topic                      | Description |
