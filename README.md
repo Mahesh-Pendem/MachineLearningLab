@@ -40,16 +40,16 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 ---
 ## 🧪 How to Run
-### 1.Clone the repo:
-
+ 1.Clone the repo:
 git clone https://github.com/yourusername/MachineLearningLab.git
 cd MachineLearningLab
 
-### 2.Launch Jupyter Notebook:
+ 2.Launch Jupyter Notebook:
 
-## jupyter notebook
+ jupyter notebook
 
-### 3.Open the folder for the desired week, select the .ipynb file, and run the code cells in order.
+ 3. Open the folder for the desired week, select the `.ipynb` file, and run the code cells in order.
+
 ---
 
 ## 📌 Features
