@@ -4,16 +4,7 @@
 
 # 📊 Machine Learning Lab
 
-Welcome to the **Machine Learning Lab** repository!  
-This repo contains all practical implementations and exercises done as part of our Machine Learning lab coursework.  
-Each lab demonstrates key concepts in ML using **Python** and essential libraries like:
-
-- `pandas` for data manipulation  
-- `numpy` for numerical operations  
-- `matplotlib` and `seaborn` for data visualization  
-- `scikit-learn` for machine learning algorithms  
-
----
+Welcome to the Machine Learning Lab repository! This repo contains all practical implementations and exercises done as part of our Machine Learning lab coursework. Each lab demonstrates key concepts in ML using Python and essential libraries like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and more.
 
 ## ✅ Lab Index
 
@@ -31,9 +22,9 @@ Each lab demonstrates key concepts in ML using **Python** and essential librarie
 
 ---
 
-## 🔧 Requirements
+## 🧪 How to Run
 
-Install the required libraries using pip:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/MachineLearningLab.git
+   cd MachineLearningLab expand some information and give as readme.md code
